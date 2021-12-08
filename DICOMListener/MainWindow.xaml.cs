@@ -12,6 +12,8 @@ using System.Linq;
 
 namespace DICOMListener
 {
+    //v1.1
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
