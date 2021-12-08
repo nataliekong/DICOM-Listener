@@ -1,0 +1,9 @@
+Clinic	Calvary Mater Newcastle AXB
+ConfigFile	EPIDose_config_CMNH_AXB_2020_12_30_r1.txt
+SettingsFile	EPIDose_settings.txt
+GammaPer1	3
+GammaDis1	2
+GammaThresh1	10
+SaveMatFolder	None
+SavePDFFolder	S:\Radiation Oncology\Physics\Patient Specific QA\VMAT\ViperResults
+BatchCalculation	0

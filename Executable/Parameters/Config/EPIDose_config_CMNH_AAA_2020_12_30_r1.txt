@@ -1,0 +1,168 @@
+CENTRE-SPECIFIC INFORMATION
+Centre:	Calvary Mater Newcastle Hospital
+3D Gamma Flag (%):	95
+2D Gamma Flag (%):	95
+Point Dose Flag (%):	3
+Dose Tolerance (fraction):	0.03
+DTA (mm):	2
+Default Patient Data Path:	D:/
+Calibration File Directory:	S:/Radiation Oncology/Physics/Patient Specific QA/EPIDOSE/Calibration Head Folder/
+Number of Linacs:	7
+
+LINAC-SPECIFIC INFORMATION
+Linac 1
+Name:	Hunter
+Parameter File:	CMN_Hunter_2020_10_13.mat
+Number of Beam Types:	1
+Beam Type Names:	6X
+Beam Reference Doses (cGy):	79.43
+Linac 2
+Name:	Phoenix
+Parameter File:	CMN_Phoenix_2020_10_13.mat
+Number of Beam Types:	1
+Beam Type Names:	6X
+Beam Reference Doses (cGy):	79.43
+Linac 3
+Name:	Titan
+Parameter File:	CMN_Titan_2020_10_13.mat
+Number of Beam Types:	1
+Beam Type Names:	6X
+Beam Reference Doses (cGy):	79.43
+Linac 4
+Name:	Zeus
+Parameter File:	CMN_Zeus_2020_10_13.mat
+Number of Beam Types:	1
+Beam Type Names:	6X
+Beam Reference Doses (cGy):	79.43
+Linac 5
+Name:	Lawson
+Parameter File:	CMN_Lawson_2020_05_01.mat
+Number of Beam Types:	4
+Beam Type Names:	6XT	6XFFF	10XT	10XFFF
+Beam Reference Doses (cGy):	79.68	75.76	88.69	84.35
+Linac 6
+Name:	Zeus2
+Parameter File:	CMN_Zeus2_2020_08_11.mat
+Number of Beam Types:	4
+Beam Type Names:	6XT	6XFFF	10XT	10XFFF
+Beam Reference Doses (cGy):	79.68	75.76	88.69	84.35
+Linac 7
+Name:	Titan2
+Parameter File:	CMN_Titan2_2020_12_22.mat
+Number of Beam Types:	2
+Beam Type Names:	6XT	10XT
+Beam Reference Doses (cGy):	79.68	88.69
+
+PHANTOM-SPECIFIC INFORMATION
+Number of Phantoms:	6
+Phantom1
+Name:	Cylinder20cm
+Parameter File:	VIPER_Phantom_Cyl_20cm_3.0.mat
+NumDepths:	5
+Phantom2
+Name:	Cylinder30cm
+Parameter File:	VIPER_Phantom_Cyl_30cm_3.0.mat
+NumDepths:	7		
+Phantom3
+Name:	Sphere20cm
+Parameter File:	VIPER_Phantom_Sph_20cm_3.0.mat
+NumDepths:	5
+
+Phantom4	
+Name:	FlatSlab20cm
+Parameter File:	VIPER_Phantom_Flat_20cm_3.0.mat
+NumDepths:	5
+
+Phantom5
+Name:	FlatSlab30cm
+Parameter File:	VIPER_Phantom_Flat_30cm_3.0.mat
+NumDepths:	7
+
+Phantom6
+Name:	FlatSlab38cmSSD
+Parameter File:	VIPER_Phantom_Flat_38cm_SSD_3.0.mat
+NumDepths:	7
+
+
+MODEL-SPECIFIC INFORMATION
+Number of Models:	5
+Model 1
+Name:	6XT
+Parameter File:	VIPER_Parameters_AS1200_6_STANDARD_Smoothed_2019_12_19.mat
+Phantom1
+Beam Reference Doses (cGy):	133.0	104.49	79.50	59.69	44.90
+Phantom2
+Beam Reference Doses (cGy):	150.0	116.36	87.811	65.476	48.819	36.519	27.80
+Phantom3
+Beam Reference Doses (cGy):	133.0	104.49	79.50	59.69	44.90
+Phantom4
+Beam Reference Doses (cGy):	133.0	104.73	79.68	59.83	45.00
+
+Phantom5
+Beam Reference Doses (cGy):	150.0	116.36	87.811	65.476	48.819	36.519	27.80
+Phantom 6
+Beam Reference Doses (cGy):	110.0	87.06	66.56	50.77	38.60	29.26	22.09
+Model 2
+Name:	6XFFF
+Parameter File:	VIPER_Parameters_AS1200_6_FFF_Smoothed_2020_01_20.mat
+Phantom 1
+Beam Reference Doses (cGy):	133.0	102.187	75.678	55.37	41.53
+Phantom 2
+Beam Reference Doses (cGy):	150.0	113.48	83.292	60.475	44.036	32.272	24.20
+
+Phantom 3
+Beam Reference Doses (cGy):	133.0	102.187	75.678	55.37	41.53
+Phantom 4
+Beam Reference Doses (cGy):	133.0	102.516	75.76	55.34	40.0
+Phantom 5
+Beam Reference Doses (cGy):	150.0	113.73	83.34	60.45	43.99	32.22	24.17
+Phantom 6
+Beam Reference Doses (cGy):	107.5	85.51	63.52	47.17	35.00	25.94	20.00
+Model 3
+Name:	10XT
+Parameter File:	VIPER_Parameters_AS1200_10_STANDARD_Smoothed_2019_12_20.mat
+Phantom1
+Beam Reference Doses (cGy):	140.0	111.54	88.57	69.79	54.0
+Phantom2
+Beam Reference Doses (cGy):	160.0	124.21	97.9	76.62	59.92	47.04	37.0
+
+Phantom3
+Beam Reference Doses (cGy):	140.0	111.54	88.57	69.79	54.0
+Phantom4
+Beam Reference Doses (cGy):	140.0	111.76	88.69	69.82	55.0
+Phantom5
+Beam Reference Doses (cGy):	160.0	124.36	98.07	76.69	59.95	47.05	37.0
+Phantom 6
+Beam Reference Doses (cGy):	115.8	92.42	73.75	58.80	46.83	37.22	29.53
+Model 4
+Name:	10XFFF
+Parameter File:	VIPER_Parameters_AS1200_10_FFF_Smoothed_2019_12_20.mat
+Phantom1
+Beam Reference Doses (cGy):	140.0	109.61	85.0	65.46	49.10
+Phantom2
+Beam Reference Doses (cGy):	155.0	121.82	93.75	71.73	54.99	42.42	31.8
+
+Phantom3
+Beam Reference Doses (cGy):	140.0	109.61	85.0	65.46	49.10
+Phantom4
+Beam Reference Doses (cGy):	140.0	108.92	84.35	65.03	50.12
+Phantom5
+Beam Reference Doses (cGy):	155.0	122.00	93.82	71.74	54.97	42.40	31.8
+Phantom 6
+Beam Reference Doses (cGy):	115.0	91.17	71.00	55.36	43.19	33.70	26.30
+Model 5
+Name:	6X
+Parameter File:	VIPER_Parameters_AS1000_6_STANDARD_MLC_Smoothed_2019_12_19.mat
+Phantom1
+Beam Reference Doses (cGy):	132.7	104.20	79.48	59.83	45.00
+Phantom2
+Beam Reference Doses (cGy):	149.7	116.00	87.71	65.43	48.89	36.62	27.90
+
+Phantom3
+Beam Reference Doses (cGy):	132.7	104.20	79.48	59.83	45.00
+Phantom4
+Beam Reference Doses (cGy):	132.75	104.34	79.43	59.70	44.75
+Phantom5
+Beam Reference Doses (cGy):	150.0	115.98	87.58	65.35	48.77	36.51	27.80
+Phantom 6
+Beam Reference Doses (cGy):	110.0	86.67	66.31	50.61	38.52	29.22	22.08

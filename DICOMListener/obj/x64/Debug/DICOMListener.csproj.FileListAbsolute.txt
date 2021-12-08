@@ -1,0 +1,16 @@
+C:\Nat\DICOM Listener\DICOMListener\Executable\DICOMListener.exe.config
+C:\Nat\DICOM Listener\DICOMListener\Executable\DICOMListener.exe
+C:\Nat\DICOM Listener\DICOMListener\Executable\DICOMListener.pdb
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\MainWindow.g.cs
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\App.g.cs
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener_MarkupCompile.cache
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener_MarkupCompile.lref
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\MainWindow.baml
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.g.resources
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.Properties.Resources.resources
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.csproj.GenerateResource.cache
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.csproj.CoreCompileInputs.cache
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.csproj.CopyComplete
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.exe
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.pdb
+C:\Nat\DICOM Listener\DICOMListener\DICOMListener\obj\x64\Debug\DICOMListener.csprojAssemblyReference.cache

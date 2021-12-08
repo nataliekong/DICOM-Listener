@@ -1,0 +1,314 @@
+Date: 15-Mar-2021: Time: 16-42
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: : No dose files found in input directory  
+Date: 15-Mar-2021: Time: 16-43
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: : No dose files found in input directory  
+Date: 15-Mar-2021: Time: 16-44
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: : No plan file found in input directory  
+Date: 15-Mar-2021: Time: 16-44
+Could not open autorun_viper.txt  Viper Fail  
+Date: 15-Mar-2021: Time: 16-45
+Could not open patient folder  Viper Fail  
+Date: 15-Mar-2021: Time: 16-46
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30c/: Could not open patient folder  Viper Fail  
+Date: 15-Mar-2021: Time: 17-16
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK  
+Date: 15-Mar-2021: Time: 19-54
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK  
+Date: 16-Mar-2021: Time: 9-32
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK  
+Date: 16-Mar-2021: Time: 9-41
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Could not open folder for saving mat result  
+Date: 16-Mar-2021: Time: 9-42
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Could not open folder for saving mat result  
+Date: 16-Mar-2021: Time: 9-51
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: D:/Viper_Mat_Results/M1768482_BURKE_Cylinder30_2_6_STD_Hunter_3D_3_2_10_16-Mar-2021_9-51  
+Date: 16-Mar-2021: Time: 9-54
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: D:/Viper_Mat_Results/M1768482_BURKE_Cylinder30_2_6_STD_Hunter_3D_3_1_10_16-Mar-2021_9-54  
+Date: 16-Mar-2021: Time: 9-59
+Input Directory: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Users/pbg399/Dropbox/Projects/VIPER/Data/VIPER Test and Benchmark Data/Batch Data Test/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 26-Mar-2021: Time: 15-48
+Input Directory: O:/centres/MPRG/People/PG Transfer/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: O:/centres/MPRG/People/PG Transfer/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 26-Mar-2021: Time: 15-53
+Input Directory: O:/centres/MPRG/People/PG Transfer/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: O:/centres/MPRG/People/PG Transfer/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 26-Mar-2021: Time: 16-39
+Input Directory: C:/Users/pbg399/Desktop/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Users/pbg399/Desktop/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 28-Apr-2021: Time: 10-7
+Input Directory: C:/Users/pbg399/Desktop/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Could not open patient folder  Viper Fail  
+Date: 28-Apr-2021: Time: 10-55
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 28-May-2021: Time: 11-13
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 31-May-2021: Time: 12-52
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 31-May-2021: Time: 12-56
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 31-May-2021: Time: 12-59
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 31-May-2021: Time: 13-1
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 31-May-2021: Time: 15-2
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 04-Jun-2021: Time: 12-8
+Input Directory: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/: Mat Save OK: C:/Nat/AutoViper/Calvary Mater Newcastle AXB/Cylinder30cm/  
+Date: 08-Jun-2021: Time: 17-5
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 9-23
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 9-59
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 10-6
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 10-20
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 10-25
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 10-30
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 10-35
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 11-22
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 11-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 16-19
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 16-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 16-56
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 17-2
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Jun-2021: Time: 17-9
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 10-Jun-2021: Time: 9-27
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 10-Jun-2021: Time: 9-42
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 10-Jun-2021: Time: 9-47
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 10-Jun-2021: Time: 11-1
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 15-Jun-2021: Time: 10-58
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 15-Jun-2021: Time: 11-7
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 15-Jun-2021: Time: 11-18
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 15-Jun-2021: Time: 12-24
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 21-Jul-2021: Time: 12-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 21-Jul-2021: Time: 12-47
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 21-Jul-2021: Time: 12-51
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 22-Jul-2021: Time: 11-37
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Could not open patient folder  Viper Fail  
+Date: 22-Jul-2021: Time: 17-47
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 22-Jul-2021: Time: 17-53
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 22-Jul-2021: Time: 17-53
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 16-0
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 16-7
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 16-10
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 16-48
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 16-54
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 16-59
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 17-6
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 17-13
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 03-Aug-2021: Time: 17-17
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 04-Aug-2021: Time: 10-21
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 04-Aug-2021: Time: 10-28
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 04-Aug-2021: Time: 10-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 05-Aug-2021: Time: 16-36
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 05-Aug-2021: Time: 16-41
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 05-Aug-2021: Time: 17-14
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 13-23
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 13-28
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 14-18
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 14-39
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 14-43
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 15-5
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 15-10
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 15-14
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/  
+Date: 06-Aug-2021: Time: 16-18
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Aug-2021: Time: 12-49
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Aug-2021: Time: 14-12
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Aug-2021: Time: 14-21
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/  
+Date: 09-Aug-2021: Time: 14-27
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Aug-2021: Time: 14-35
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 09-Aug-2021: Time: 14-39
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532955_1 LT ABDO_PE1/  
+Date: 12-Aug-2021: Time: 15-13
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/: : Could not find Calibration File in Calibration Folder:: AC Directory does not exist  
+Date: 13-Aug-2021: Time: 11-11
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/: : Could not find Calibration File in Calibration Folder:: AC Directory does not exist  
+Date: 03-Sep-2021: Time: 17-9
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M1145958_1 H_N/: : Could not find Calibration File in Calibration Folder:: AC Directory does not exist  
+Date: 03-Sep-2021: Time: 17-14
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M1145958_1 H_N/: : Could not find Calibration File in Calibration Folder:: AC Directory does not exist  
+Date: 09-Sep-2021: Time: 12-24
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: : Could not find Calibration File in Calibration Folder:: AC Directory does not exist  
+Date: 10-Sep-2021: Time: 14-26
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 13-Sep-2021: Time: 11-13
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: : No image files found in input directory  
+Date: 13-Sep-2021: Time: 11-21
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 13-Sep-2021: Time: 11-31
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 13-Sep-2021: Time: 11-37
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/  
+Date: 13-Sep-2021: Time: 14-18
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 13-Sep-2021: Time: 14-48
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 14-Sep-2021: Time: 10-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 14-Sep-2021: Time: 10-51
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 14-Sep-2021: Time: 11-8
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 14-Sep-2021: Time: 11-19
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 14-Sep-2021: Time: 11-50
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 11-17
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 11-50
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 11-58
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 12-11
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 12-48
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 13-8
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 13-19
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 13-27
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 15-12
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 15-18
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 15-Sep-2021: Time: 15-23
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/  
+Date: 15-Sep-2021: Time: 16-23
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 15-Sep-2021: Time: 17-33
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 15-Sep-2021: Time: 17-38
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 24-Sep-2021: Time: 9-37
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M1753041_1 LARYNX/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M1753041_1 LARYNX/  
+Date: 27-Sep-2021: Time: 14-46
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 27-Sep-2021: Time: 15-4
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 27-Sep-2021: Time: 15-4
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 27-Sep-2021: Time: 15-30
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 27-Sep-2021: Time: 15-35
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 27-Sep-2021: Time: 15-40
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 28-Sep-2021: Time: 11-10
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 28-Sep-2021: Time: 11-28
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 28-Sep-2021: Time: 11-29
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 28-Sep-2021: Time: 11-53
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0853331_1 LT H_N/  
+Date: 28-Sep-2021: Time: 12-3
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 28-Sep-2021: Time: 12-58
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 28-Sep-2021: Time: 14-24
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 28-Sep-2021: Time: 14-53
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Could not open patient folder  Viper Fail  
+Date: 28-Sep-2021: Time: 15-53
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 28-Sep-2021: Time: 15-56
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M6015179_1 RT EAR/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M6015179_1 RT EAR/  
+Date: 28-Sep-2021: Time: 16-1
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0013034_1 H_N/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0013034_1 H_N/  
+Date: 28-Sep-2021: Time: 16-6
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 30-Sep-2021: Time: 11-10
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 30-Sep-2021: Time: 11-20
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 30-Sep-2021: Time: 11-31
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 30-Sep-2021: Time: 11-50
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 30-Sep-2021: Time: 12-42
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 01-Oct-2021: Time: 11-14
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 01-Oct-2021: Time: 11-19
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 01-Oct-2021: Time: 11-24
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 01-Oct-2021: Time: 12-13
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0532954_1 LT ABDO_PE1/  
+Date: 01-Oct-2021: Time: 12-18
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 01-Oct-2021: Time: 12-23
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_2ndPlan/  
+Date: 01-Oct-2021: Time: 16-42
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 01-Oct-2021: Time: 17-1
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 01-Oct-2021: Time: 17-16
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 27-Oct-2021: Time: 15-51
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 29-Oct-2021: Time: 11-55
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 29-Oct-2021: Time: 11-55
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 29-Oct-2021: Time: 13-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 29-Oct-2021: Time: 13-44
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 29-Oct-2021: Time: 13-57
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/: Mat Save OK: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M0305760_1 PROSTATE/  
+Date: 02-Nov-2021: Time: 10-41
+Input Directory: S:/Radiation Oncology/Public/Databases/Patient Specific QA/NewData/M3258176_1 CT SPINE/: : Could not find Calibration File in Calibration Folder:: AC Directory does not exist  
